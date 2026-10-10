@@ -1,0 +1,12 @@
+{
+  "hybrid": {
+    "squash": "tanh",
+    "lr": 0.002,
+    "epochs": 100
+  },
+  "classic": {
+    "squash": "tanh",
+    "lr": 0.002,
+    "epochs": 100
+  }
+}

@@ -1,0 +1,7 @@
+a,b,dm_stat,p_value,note
+hybrid_ensemble,classic_ensemble,5.376081948470806,7.612415520164006e-08,
+hybrid_ensemble,har,5.40444572890665,6.50091025455879e-08,
+classic_ensemble,har,3.8448550285057173,0.00012062372931986864,
+ewma,har,-0.6627055312408664,0.5075191665812824,
+hybrid_ensemble,ewma,3.39783394954703,0.0006792163296767129,
+hybrid_s*,classic_s*,,,hybrid better in 0/10 seeds

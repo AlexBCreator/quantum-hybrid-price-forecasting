@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+venv/
+.venv/
+
+# Секреты: API-ключи бирж и пароли храните в .env, он не попадает в репозиторий
+.env
+*.key
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Временные файлы ноутбуков
+output.txt
+data.bin
